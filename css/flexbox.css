@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+}
+
+ul{
+    display: flex;
+}
+
+.nav{
+    align-self: center;
+}
+
+.nav li{
+    align-self: center;
+}

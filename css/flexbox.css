@@ -4,12 +4,15 @@
 
 ul{
     display: flex;
+    justify-content: flex-end;
+    vertical-align: middle;
+    padding: 20px;
+}
+
+.navbar img{
+    flex-grow: 1;
 }
 
 .nav{
-    align-self: center;
-}
-
-.nav li{
-    align-self: center;
+    flex-grow: 20;
 }

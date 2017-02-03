@@ -1,15 +1,14 @@
 body{
-    background-color: darkturquoise;
-}
-.container{
-    background-color: antiquewhite;    
+    background-color: rgba(0, 0, 0, .8);
+    color:lightgray;
 }
 .me-image{
     height: 100px;
     padding: 5px;
+    background-color: white;
 }
 .nav{
-    background-color: blueviolet;
+    background-color: black;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -19,9 +18,9 @@ ul{
 .nav a{
     font-family: cursive;
     font-size: 20px;
-    background-color: black;
+    background-color: darkgray;
     text-decoration: none;
-    color: cadetblue;
+    color: black;
     padding: 10px;
     border-radius: 10%;
     margin: 10px;

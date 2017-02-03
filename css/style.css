@@ -22,6 +22,43 @@ ul{
     text-decoration: none;
     color: black;
     padding: 10px;
-    border-radius: 10%;
+    border-radius: 10px;
     margin: 10px;
+}
+.divider{
+    height: 5px;
+    width: 100%;
+    background-color: goldenrod;
+}
+.divider2{
+    height: 5px;
+    width: 100%;
+    background-color: #000000;
+}
+.gallery{
+    background-color: #7A7A7A;
+    padding: 20px 0;
+}
+.gallery h1{
+    color: white;
+    text-align: center;
+}
+.gallery img{
+    margin: 5px;
+    height: 100px;
+    width: 100px;
+}
+.gallery ul{
+    max-width: 550px;
+}
+.images{
+    padding: 20px 0;
+}
+.wrapper{
+    margin: 0 auto;
+    background-color: #273149;
+    height: 45vh;
+    width: 40%;
+    border-radius: 10px;
+    padding-top: 20px;
 }
